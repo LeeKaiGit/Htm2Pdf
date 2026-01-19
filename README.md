@@ -1,5 +1,7 @@
 # MHT2PDF 转换工具
 
+[English](README_EN.md) | 简体中文
+
 ![Python](https://img.shields.io/badge/python-3.10-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Language](https://img.shields.io/badge/language-Python-blue.svg)
